@@ -76,7 +76,7 @@ config = Config()
 
 # ========= Bot Setup =========
 API_ID = 26400657
-API_HASH = "c20ddfa6c36b3fb15cabc735c180f738"
+API_HASH = "8c20ddfa6c36b3fb15cabc735c180f738"
 BOT_TOKEN = "943255622:AAHJLWZdmDQce4NzZ51FdFqXoVVKez4ZrLk"
 MODEL_NAME = "gemini-2.5-flash"
 
